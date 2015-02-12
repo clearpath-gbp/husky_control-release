@@ -2,6 +2,11 @@
 Changelog for package husky_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2015-02-12)
+------------------
+* Namespace fixes
+* Contributors: Paul Bovbel
+
 0.0.3 (2015-02-06)
 ------------------
 
